@@ -16,12 +16,10 @@ html, body {
     font-size: 2rem;
     letter-spacing: -1px;
     position: absolute;
-    vertical-align: middle;
-    margin-top: 200px;
-/*     margin: 0; */
-/*     top: -4px; */
-/*     right: 5px; */
+    margin: 0;
+    top: -4px;
+    right: 5px;
   
-    color: transparent;
+    color: dark-grey;
     text-shadow: 0 0 4px white;
   }
